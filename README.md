@@ -1,8 +1,10 @@
 # cloud-server
 AWS: Cloud Servers
 
-[GUI deploy link](f)
-[CLI deploy link](f)
+screenshot of EB deployment: ![alt text](image.png)
+
+- [GUI deploy link](f): not there but should work, John and Brandon saw the DB deployment work
+- [CLI deploy link](f): http://cloud-server.eba-tyxrtn2g.us-west-2.elasticbeanstalk.com/
 
 Feature Tasks
 Deploy a simple Node.js server to EC2, using Elastic Beanstalk
